@@ -1,5 +1,4 @@
 flask
-hashlib
 pycryptodome
 secretsharing
 tkinter
