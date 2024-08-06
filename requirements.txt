@@ -1,6 +1,7 @@
 python-flask
 hashlib
-pycrypto
+pycryptodome
 secretsharing
 tkinter
 webbrowser
+gunicorn
