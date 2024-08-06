@@ -1,6 +1,5 @@
 flask
 pycryptodome
 secretsharing
-tkinter
 webbrowser
 gunicorn
